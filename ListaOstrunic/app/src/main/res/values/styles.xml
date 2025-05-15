@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="BeerNameText">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+
+    <style name="BeerDetailText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style>
+
+    <style name="BeerButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/buttonColor</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+    </style>
+
+</resources>

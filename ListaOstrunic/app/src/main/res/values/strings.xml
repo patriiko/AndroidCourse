@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista Piva</string>
+    <string name="open_website">Otvori web stranicu</string>
+    <string name="style_format">Stil: %1$s</string>
+    <string name="abv_format">ABV: %1$.1f%%</string>
+    <string name="title_activity_detail">Detalji</string>
+</resources>
