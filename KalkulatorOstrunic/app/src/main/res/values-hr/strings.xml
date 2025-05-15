@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KalkulatorOstrunic</string>
+    <string name="enter_weight">Unesi težinu (kg)</string>
+    <string name="enter_height">Unesi visinu (cm)</string>
+    <string name="calculate">Izračunaj BMI</string>
+    <string name="result_placeholder">Tvoj BMI će biti prikazan ovdje</string>
+    <string name="input_error">Unesi ispravne vrijednosti za težinu i visinu</string>
+    <string name="bmi_result">Tvoj BMI je: %.2f\n%s</string>
+    <string name="underweight">U području si pothranjenosti.</string>
+    <string name="normal">U zdravom si rasponu težine.</string>
+    <string name="overweight">U području si prekomjerne težine.</string>
+    <string name="obese">U području si pretilosti.</string>
+    <string name="severely_obese">U području si teške pretilosti.</string>
+    <string name="light_mode">Svijetla tema</string>
+    <string name="dark_mode">Tamna tema</string>
+    <string name="system_mode">Sistemska tema</string>
+</resources>

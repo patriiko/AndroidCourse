@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KalkulatorOstrunic</string>
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="enter_height">Enter height (cm)</string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="result_placeholder">Your BMI will be shown here</string>
+    <string name="input_error">Please enter valid weight and height</string>
+    <string name="bmi_result">Your BMI is: %.2f\n%s</string>
+    <string name="underweight">You are in the underweight range.</string>
+    <string name="normal">You are in the healthy weight range.</string>
+    <string name="overweight">You are in the overweight range.</string>
+    <string name="obese">You are in the obese range.</string>
+    <string name="severely_obese">You are in the severely obese range.</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="system_mode">System Default</string>
+</resources>
