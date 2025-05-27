@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beer List</string>
+    <string name="open_website">Open website</string>
+    <string name="style_format">Style: %1$s</string>
+    <string name="abv_format">ABV: %1$.1f%%</string>
+    <string name="title_activity_detail">Details</string>
+</resources>
